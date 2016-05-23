@@ -1,0 +1,44 @@
+ol {
+    display:none;
+}
+  .carousel-inner {
+      width: 100%;
+      margin-left: auto;
+      }
+.item {
+    width: auto;
+    height: 500px;
+    margin-left: center;
+}
+img {
+    width: auto;
+    height: auto;
+    margin: auto;
+    max-height: 500;
+    max-width: auto;
+}
+.logo {
+    width:10px;
+    height: 10px;
+}
+#articleHeader{
+    font-family:serif;
+
+}
+#About {
+    text-align:center;
+}
+#aboutp {
+    text-align:left;
+    margin-left: 15px;
+}
+#leadArticle{
+     text-align:left;
+    margin-left: 15px;
+  margin-right: 15px;
+}
+#secondaryArticle{
+   text-align:left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
